@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584509255775.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "48|11|50|0|\n56|27|58|0|\n",
+    "hash" : "0",
+    "id" : "821D7E99",
+    "lastKnownWriteTime" : 1584514843,
+    "last_content_update" : 1584514843878,
+    "path" : "~/Documents/GitHub/108-2-56-inclass-practice/james2656 20200318.Rmd",
+    "project_path" : "james2656 20200318.Rmd",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "17",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
