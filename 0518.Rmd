@@ -1,0 +1,25 @@
+---
+title: "0518"
+author: "lianglinchia"
+date: "5/18/2020"
+output: html_document
+---
+
+```{r}
+char1 <- c("Wild","Apple","Donald","May","Avocada") 
+factor1 <- factor(char1)
+levels(factor1)
+```
+```{r}
+char2 <- c("蔡英文","習近平","Donald Trump","蔡頭") 
+factor2 <- factor(char2)
+levels(factor2)
+
+sort(
+  str_sub(char2,1,1)
+)
+sort(
+  str_sub(char2,2,2)
+)
+```
+
